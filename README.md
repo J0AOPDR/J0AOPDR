@@ -1,6 +1,12 @@
 <br clear="both">
 
-<h2 align="left">Hello, I'm Chagas! 👋</h2>
+<h1 align="left">Hello, I'm Chagas! 👋</h1>
+
+###
+
+<br clear="both">
+
+<p align="left">Just a tech enthusiast. 🖥️</p>
 
 ###
 
@@ -42,5 +48,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/J0AOPDR/J0AOPDR/output/snake.svg" alt="Snake animation" />
 
 ###
