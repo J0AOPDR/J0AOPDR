@@ -43,6 +43,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/J0AOPDR/J0AOPDR/output/snake.svg" alt="Snake animation" />
-
 ###
