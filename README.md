@@ -10,7 +10,6 @@
 
 ###
 
-<img align="right" height="300" src="https://media1.tenor.com/m/DI7x6eNuoFwAAAAd/smoke-anime.gif"  />
 
 ###
 
